@@ -22,7 +22,7 @@ This project provides image processing and recognition capabilities in the field
 - [x] Run my Django web in cloud server
 
 ## TODO
-- [ ] Optimize front-end interface，adapt to mobile and PC interface
+- [ ] Optimize front-end interface, adapt to mobile and PC interface
 - [ ] Design front-end and back-end interactive interfaces
 - [ ] Add feature: Face comparison
 - [ ] Add feature: Bank card identification
