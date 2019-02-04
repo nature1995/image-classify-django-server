@@ -19,8 +19,11 @@ This project provides image processing and recognition capabilities in the field
 - [x] Add Login & Signup
 - [x] Buy and set cloud server (Alibaba Cloud), then install environment
 - [x] Add Django Rest Framework
+- [x] Run my Django web in cloud server
 
 ## TODO
+- [ ] Optimize front-end interface，adapt to mobile and PC interface
+- [ ] Design front-end and back-end interactive interfaces
 - [ ] Add feature: Face comparison
 - [ ] Add feature: Bank card identification
 - [ ] Add feature: Gesture identification
@@ -32,7 +35,8 @@ This project provides image processing and recognition capabilities in the field
   - [ ] DenseNet121, DenseNet169, DenseNet201
   - [ ] VGG16, VGG19
   - [ ] NASNetMobile, NASNetLarge
-
+- [ ] Run each part of functions seperately in my own cloud server 
+- [ ] Run all the functions in my own cloud server
 ## Author
 
 * **Ziran Gong** - [Web Page](http://ranxiaolang.com)
