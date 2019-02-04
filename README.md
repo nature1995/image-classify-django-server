@@ -5,7 +5,37 @@
 [![django2.1.5](https://img.shields.io/badge/django-2.1.5-orange.svg)]()
 [![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/nature1995/image-classify-django-server/blob/master/LICENSE)
 
+## Introduction
+This is my EE551 python individual project | Author: Ziran Gong
 
-EE551 python project | Author: Ziran Gong
+## Purposals
+This project provides image processing and recognition capabilities in the field of artificial intelligence by building web services. Those features can be conveniently and quickly used on mobile phones, computers, and tablets. Provide a good user experience and a beautiful interface。
 
+## Architecture
 
+## Features
+- [x] Create Django web server in local
+- [x] Add Account management funtion
+- [x] Add Login & Signup
+- [x] Buy and set cloud server (Alibaba Cloud), then install environment
+- [x] Add Django Rest Framework
+
+## TODO
+- [ ] Add feature: Face comparison
+- [ ] Add feature: Bank card identification
+- [ ] Add feature: Gesture identification
+- [ ] Add feature: image classify using following model：
+  - [ ] ResNet50
+  - [ ] Xception  
+  - [ ] MobileNet, MobileNetV2  
+  - [ ] InceptionV3, InceptionResNetV2
+  - [ ] DenseNet121, DenseNet169, DenseNet201
+  - [ ] VGG16, VGG19
+  - [ ] NASNetMobile, NASNetLarge
+
+## Author
+
+* **Ziran Gong** - [Web Page](http://ranxiaolang.com)
+
+## License
+This software is licensed under the GNU General Public License v3.0 License. For more information, read the file [LICENSE](https://github.com/nature1995/image-classify-django-server/blob/master/LICENSE).
