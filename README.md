@@ -35,7 +35,7 @@ This project provides image processing and recognition capabilities in the field
   - [ ] DenseNet121, DenseNet169, DenseNet201
   - [ ] VGG16, VGG19
   - [ ] NASNetMobile, NASNetLarge
-- [ ] Support different models to switch between each other
+- [ ] Support switching between different image identify models
 - [ ] Run each part of functions seperately in my own cloud server 
 - [ ] Run all the functions in my own cloud server
 ## Author
