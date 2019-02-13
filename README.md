@@ -31,7 +31,7 @@ This project provides image processing and recognition capabilities in the field
   - [ ] ResNet50
   - [ ] Xception  
   - [ ] MobileNet, MobileNetV2  
-  - [ ] InceptionV3, InceptionResNetV2
+  - [ ] InceptionV3
   - [ ] DenseNet121, DenseNet169, DenseNet201
   - [ ] VGG16, VGG19
   - [ ] NASNetMobile, NASNetLarge
