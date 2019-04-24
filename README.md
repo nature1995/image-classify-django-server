@@ -1,48 +1,53 @@
 # image-classify-django-server
 
-[![python3.5](https://img.shields.io/badge/python-3.5-blue.svg)](https://www.python.org/downloads/release/python-355/)
-[![python3.6](https://img.shields.io/badge/python-3.6-brightgreen.svg)](https://www.python.org/downloads/release/python-368/)
-[![django2.1.5](https://img.shields.io/badge/django-2.1.5-orange.svg)](https://docs.djangoproject.com/en/2.1/)
-[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/nature1995/image-classify-django-server/blob/master/LICENSE)
+<div align="center">
+    <a href=""><img src="https://i.loli.net/2019/03/19/5c8ff77663c65.png" width="200" hegiht="200"/></a>
+</div>
+<br>
+
+[![python3.5](https://img.shields.io/badge/python-3.5-blue.svg)]()
+[![python3.6](https://img.shields.io/badge/python-3.6-brightgreen.svg)]()
+[![django2.1.5](https://img.shields.io/badge/django-2.1.5-orange.svg)]()
+[![Build Status](https://travis-ci.com/nature1995/AI-plateform-server.svg?token=ihxd9jwdJ367UvYy3j9G&branch=master)](https://travis-ci.com/nature1995/AI-plateform-server)
 
 ## Notice
 The Final project repo have been transferred to the follow link. It a private repo. Please email me(zgong5@stevens.edu) if you would like to watch it. Thanks!
 
 https://github.com/nature1995/AI-plateform-server
 
-## Introduction
-This is my EE551 python individual project | Author: Ziran Gong
+## Introduction  
+A Keras deep learning image classifiers on Django server with REST API. It can help you quickly deploy and apply already trained models.
 
-## Purposals
-This project provides image processing and recognition capabilities in the field of artificial intelligence by building web services. Those features can be conveniently and quickly used on mobile phones, computers, and tablets. Provide a good user experience and a beautiful interface。
+## Purposals  
+Nowadays, more and more image recognition models have been designed, but most of the results are derived from simulations
+ and are not applied to actual deployments. Through the actual application deployment, not only the performance of the
+  model can be detected, but also the invisible problem of its existence can be detected. It can be of great help to
+   model optimization and model improvement. The main purpose of this project is to build a Django web-based REST API
+    model for deploying deep learning image recognition models while testing the performance of the model.
 
-## Architecture
+## Key words
+Image classifiers, REST API
 
 ## Features
-- [x] Create Django web server in local
 - [x] Add Account management funtion
 - [x] Add Login & Signup
-- [x] Buy and set cloud server (Alibaba Cloud), then install environment
 - [x] Add Django Rest Framework
-- [x] Run my Django web in cloud server
+- [x] Optimize front-end interface, adapt to mobile and PC interface
+- [x] Design front-end and back-end interactive interfaces
+- [x] Add feature: Face comparison
+- [x] Add feature: Bank card identification
+- [x] Add feature: Gesture identification
+- [x] Add feature: Image classify using following model：
+  - [x] ResNet50
+  - [x] Xception  
+  - [x] MobileNet, MobileNetV2  
+  - [x] InceptionV3, InceptionResNetV2
+  - [x] DenseNet121, DenseNet169, DenseNet201
+  - [x] VGG16, VGG19
+  - [x] NASNetMobile, NASNetLarge
+- [x] Run each part of functions seperately in local and cloud server
+- [x] Run all the functions in local server and cloud server
 
-## TODO
-- [ ] Optimize front-end interface, adapt to mobile and PC interface
-- [ ] Design front-end and back-end interactive interfaces
-- [ ] Add feature: Face comparison
-- [ ] Add feature: Bank card identification
-- [ ] Add feature: Gesture identification
-- [ ] Add feature: image classify using following model：
-  - [ ] ResNet50
-  - [ ] Xception  
-  - [ ] MobileNet, MobileNetV2  
-  - [ ] InceptionV3
-  - [ ] DenseNet121, DenseNet169, DenseNet201
-  - [ ] VGG16, VGG19
-  - [ ] NASNetMobile, NASNetLarge
-- [ ] Support switching between different image identify models
-- [ ] Run each part of functions seperately in my own cloud server 
-- [ ] Run all the functions in my own cloud server
 ## Author
 
 * **Ziran Gong** - [Web Page](http://ranxiaolang.com)
