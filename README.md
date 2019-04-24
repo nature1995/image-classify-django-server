@@ -5,6 +5,11 @@
 [![django2.1.5](https://img.shields.io/badge/django-2.1.5-orange.svg)](https://docs.djangoproject.com/en/2.1/)
 [![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/nature1995/image-classify-django-server/blob/master/LICENSE)
 
+## Notice
+The Final project repo have been transferred to the follow link. It a private repo. Please email me(zgong5@stevens.edu) if you would like to watch it. Thanks!
+
+https://github.com/nature1995/AI-plateform-server
+
 ## Introduction
 This is my EE551 python individual project | Author: Ziran Gong
 
